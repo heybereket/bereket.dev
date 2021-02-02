@@ -27,7 +27,7 @@ a {
 .section {
 	padding-bottom: 48px;
 	margin-bottom: 48px;
-	border-bottom: 1px solid #222;
+	border-bottom: 1px solid lightgray;
 }
 .section:last-of-type {
 	border-bottom: 0;
