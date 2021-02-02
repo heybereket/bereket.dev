@@ -16,10 +16,9 @@ body {
 }
 a {
 	color: inherit;
-}
-a:hover {
 	text-decoration: underline;
 }
+
 #content {
 	max-width: 512px;
 	margin: 0 auto;
