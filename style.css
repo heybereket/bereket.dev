@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
 html {
     --primary: #228be6;
     --primary-dark: #1864ab;
@@ -57,7 +57,7 @@ html {
   }
   
   .c-title {
-    font-weight: 700;
+    font-weight: 800;
     font-size: 3.2rem;
     line-height: 1.6;
   }
