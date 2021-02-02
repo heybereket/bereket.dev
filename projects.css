@@ -15,8 +15,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 a {
-	color: inherit;
-	text-decoration: underline;
+	color:  #228be6;
+}
+
+a:hover {
+	color: #1864ab;
 }
 
 #content {
