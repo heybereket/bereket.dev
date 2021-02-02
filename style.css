@@ -73,18 +73,6 @@ html {
     border-radius: 40px;
     margin-bottom: 12px;
   }
-  
-  .c-theme-btn {
-    display: inline-block;
-    border: 0;
-    width: 3.2rem;
-    height: 3.2rem;
-    padding: 0;
-    
-    margin-bottom: 2.4rem;
-    position: relative;
-    transition: all 240ms ease-out 0ms;
-  }
 
   
   .c-social {
