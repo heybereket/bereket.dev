@@ -92,6 +92,18 @@ p {
 	text-align: right;
 }
 
+#display {
+	width: 450px; 
+	border: 2px solid #222; 
+	border-radius: 10px;
+}
+
+@media (max-width: 550px){
+    #display {
+        width: 350px;
+    }
+}
+
 
 ul li {
 	margin-bottom: 32px;
