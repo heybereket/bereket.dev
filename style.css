@@ -76,6 +76,9 @@ html {
   }
   
 
+  #page-button {
+    color: #222; 
+  }
   
   .c-social {
     display: flex;
